@@ -23,6 +23,7 @@ static const uint16_t SUPPORTED_CHIP_IDS[] =
   0x0410,
   0x0414,
   0x0413,
+  0x0421,
   0x0440,
   0
 };
